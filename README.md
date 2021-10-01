@@ -4,3 +4,5 @@
 #### It has the following features: 2 Player Play, Win Counter for both the players, Draw Detector and Win Detector.
 
 ## Screenshots -
+
+![Screenshot](Screenshots/1.jpeg)
