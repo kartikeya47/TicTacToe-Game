@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_a_turn">Player A\'s Chance</string>
+    <string name="reset">Reset</string>
+    <string name="reset_the_game">Reset the Game</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="a_s_score_0">A\'s Score: 0</string>
+    <string name="b_s_score_0">B\'s Score: 0</string>
+</resources>
